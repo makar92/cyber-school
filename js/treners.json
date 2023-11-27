@@ -1,0 +1,207 @@
+{
+  "FranciscaGarcia": {
+    "firstName": "Francisca",
+    "lastName": "Garcia",
+    "photo": "FranciscaGarcia.jpg",
+    "position": "robotics teacher",
+    "education": {
+      "maneEducation": [
+        {
+          "dateStart": "September 2005",
+          "dateEnd": "June 2008",
+          "title": "Politecnico di Milano, Università Cattolica del Sacro Cuore",
+          "faculty": "Computer Science and Technology",
+          "specialty": "Mathematics and Computer Science",
+          "form": "full-time education"
+        }
+      ],
+      "additionalEducation": [
+        {
+          "dateStart": "November 2020",
+          "dateEnd": "February 2021",
+          "title": "Additional Education Program \"3D Modeling\"",
+          "place": "Institute of Additional Education \"Polytech\""
+        }
+      ]
+    },
+    "experience": [
+      {
+        "dateStart": "October 2021",
+        "dateEnd": "November 2022",
+        "title": "Chief engineer",
+        "place": "3D Robotics"
+      }
+    ],
+    "achievements": [
+      {
+        "date": "October 2021",
+        "title": "National Medal of Technology and Innovation",
+        "place": "USA"
+      }
+    ]
+  },
+  "LindseyCastonguay": {
+    "firstName": "Lindsey",
+    "lastName": "Castonguay",
+    "photo": "LindseyCastonguay.jpg",
+    "position": "robotics teacher",
+    "education": {
+      "maneEducation": [
+        {
+          "dateStart": "July 2008",
+          "dateEnd": "August 2012",
+          "title": "California Institute of Technology",
+          "faculty": "Computer Science and Technology",
+          "specialty": "Intelligent systems",
+          "form": "full-time education"
+        }
+      ],
+      "additionalEducation": [
+        {
+          "dateStart": "November 2020",
+          "dateEnd": "February 2021",
+          "title": "Кobotics building courses",
+          "place": "Columbia University"
+        }
+      ]
+    },
+    "experience": [
+      {
+        "dateStart": "October 2017",
+        "dateEnd": "Apri 2018",
+        "title": "Teacher",
+        "place": "ABB Robotics"
+      }
+    ],
+    "achievements": [
+      {
+        "date": "Apri 2016",
+        "title": "Core Values Award",
+        "place": "FIRST World Championship"
+      }
+    ]
+  },
+  "RichardMcCraw": {
+    "firstName": "Richard",
+    "lastName": "McCraw",
+    "photo": "RichardMcCraw.jpg",
+    "position": "programming teacher",
+    "education": {
+      "maneEducation": [
+        {
+          "dateStart": "September 2012",
+          "dateEnd": "May 2017",
+          "title": "New York University",
+          "faculty": "Computer Science and Technology",
+          "specialty": "Bioinformatics",
+          "form": "full-time education"
+        }
+      ],
+      "additionalEducation": [
+        {
+          "dateStart": "December 2019",
+          "dateEnd": "February 2021",
+          "title": "Bioinformatics technologies",
+          "place": "New York University"
+        }
+      ]
+    },
+    "experience": [
+      {
+        "dateStart": "October 2017",
+        "dateEnd": "March 2018",
+        "title": "Designer",
+        "place": "Aethon"
+      }
+    ],
+    "achievements": [
+      {
+        "date": "June 2015",
+        "title": "Webby Awards",
+        "place": "USA"
+      }
+    ]
+  },
+  "RaymondBarton": {
+    "firstName": "Raymond",
+    "lastName": "Barton",
+    "photo": "RaymondBarton.jpg",
+    "position": "Robotics teacher",
+    "education": {
+      "maneEducation": [
+        {
+          "dateStart": "October  2015",
+          "dateEnd": "June 2019",
+          "title": "Massachusetts Institute of Technology",
+          "faculty": "Computer Science and Technology",
+          "specialty": "Robotics",
+          "form": "full-time education"
+        }
+      ],
+      "additionalEducation": [
+        {
+          "dateStart": "March 2019",
+          "dateEnd": "May 2021",
+          "title": "artificial intelligence",
+          "place": "Massachusetts Institute of Technology"
+        }
+      ]
+    },
+    "experience": [
+      {
+        "dateStart": "November 2019",
+        "dateEnd": "January 2023",
+        "title": "Chief engineer",
+        "place": "Alphabet, Inc. (Google)"
+      }
+    ],
+    "achievements": [
+      {
+        "date": "January 2017",
+        "title": "FIRST LEGO",
+        "place": "Houston, USA"
+      }
+    ]
+  },
+  "NatashaPoirier": {
+    "firstName": "Natasha",
+    "lastName": "Poirier",
+    "photo": "NatashaPoirier.jpg",
+    "position": "Programming teacher",
+    "education": {
+      "maneEducation": [
+        {
+          "dateStart": "August  2013",
+          "dateEnd": "April 2017",
+          "title": "Massachusetts Institute of Technology",
+          "faculty": "Programming and math",
+          "specialty": "Programming",
+          "form": "full-time education"
+        }
+      ],
+      "additionalEducation": [
+        {
+          "dateStart": "June 2018",
+          "dateEnd": "November 2020",
+          "title": "Science Requirement",
+          "place": "Massachusetts Institute of Technology"
+        }
+      ]
+    },
+    "experience": [
+      {
+        "dateStart": "March 2019",
+        "dateEnd": "February 2023",
+        "title": "Programming",
+        "place": "CANVAS Technology"
+      }
+    ],
+    "achievements": [
+      {
+        "date": "October  2017",
+        "title": "Stevie Awards",
+        "place": "George Mason University, USA"
+      }
+    ]
+  }
+}
